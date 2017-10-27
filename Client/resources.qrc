@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/head.jpg</file>
+        <file>img/backImg.JPG</file>
+        <file>img/minisize.png</file>
+        <file>img/mainBackImg.jpg</file>
+        <file>img/search.png</file>
+        <file>img/dialogIcon.png</file>
+        <file>img/friendListIcon.png</file>
+        <file>img/groupChatIcon.png</file>
+        <file>img/hideIcon.png</file>
+        <file>img/openIcon.png</file>
+        <file>img/headIcon.jpg</file>
+        <file>img/close.png</file>
+        <file>img/talkDialogBackgroud.jpg</file>
+        <file>img/talkDialogBackgroud1.jpg</file>
+        <file>img/talkDialogBackgroud2.jpg</file>
+        <file>img/talkDialogBackgroud3.jpg</file>
+        <file>img/minisizeHover.png</file>
+        <file>img/minisizePressed.png</file>
+        <file>img/closeHover.png</file>
+        <file>img/closePressed.png</file>
+        <file>img/talkDigMinisize.png</file>
+        <file>img/talkDigMinisizeHover.png</file>
+        <file>img/talkDigMinisizePressed.png</file>
+        <file>img/talkDigClose.png</file>
+        <file>img/talkDigCloseHover.png</file>
+        <file>img/talkDigClosePressed.png</file>
+        <file>img/maxsizeHoverIcon.png</file>
+        <file>img/maxsizePressedIcon.png</file>
+        <file>img/maxsizeIcon.png</file>
+        <file>img/restoreHoverIcon.png</file>
+        <file>img/restoreIcon.png</file>
+        <file>img/restorePressedIcon.png</file>
+        <file>img/softwareIcon.png</file>
+        <file>img/softwareIcon0.png</file>
+    </qresource>
+</RCC>
